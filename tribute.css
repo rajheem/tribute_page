@@ -1,0 +1,62 @@
+h1,p#tribute{
+  max-width:500px;
+  margin: auto;
+text-align:center;
+font-family:Verdana;
+}
+h1{ 
+margin-bottom:5px;
+}
+
+/*Center list*/
+ul{
+  line-height:1.25em;
+  max-width:550px;
+  margin:0 auto;
+  display:inline-block;
+  text-align:left;
+  font-size:19px;
+}
+
+li{
+  margin: 16px 0;
+}
+
+#tribute-section{
+  text-align:center;
+}
+
+#citation{
+ max-width:550px;
+margin:10px auto 55px auto;
+font-size:18px;
+}
+
+
+/*center image*/
+#image{
+  max-width:100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  
+  /* linear-gradient(to bottom, #ffccff 0%, #99ccff 101%);*/
+}
+/*center image*/
+#img-div{
+  
+  text-align:center;
+  background:white;
+  
+}
+
+#more-info{
+  text-align:center;
+}
+
+#main{
+margin:30px 5px;
+background:#eee;
+
+/*linear-gradient(to bottom, #6699ff 0%, #99ccff 101%)*/
+}
